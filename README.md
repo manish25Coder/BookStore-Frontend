@@ -52,7 +52,7 @@
     [require("daisyui")]
 ```
 
-### Addind Plugins And Dependencies
+### Adding Plugins And Dependencies
 
 ```
 npm i -D daisyui@latest
