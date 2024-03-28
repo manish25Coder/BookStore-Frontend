@@ -47,4 +47,14 @@
     @tailwind components;
     @tailwind utilities;
 ```
+5. Add The Following Details In The Plugin property Of Tailwind Config
+```
+    [require("daisyui")]
+```
+
+### Addind Plugins And Dependencies
+
+```
+npm i -D daisyui@latest
+```
 
