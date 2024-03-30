@@ -58,3 +58,18 @@
 npm i -D daisyui@latest
 ```
 
+### Adding React slick
+1. Install react slick silder by given cmd
+```
+    npm install react-slick --save
+```
+2. Also install css pack
+```
+    npm install slick-carousel --save
+```
+3. Add this on where you apply(Freebook.jsx)
+```
+    import "slick-carousel/slick/slick.css";
+    import "slick-carousel/slick/slick-theme.css";
+```
+

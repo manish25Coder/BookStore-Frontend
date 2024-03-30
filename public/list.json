@@ -1,0 +1,65 @@
+[
+    {
+        "id" : 1,
+        "name" : "Story Book",
+        "title" : "The Whispering Woods: Tales from the Enchanted Forest",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-vector/opened-fantasy-book-with-cute-animals_1308-104423.jpg?w=826&t=st=1711781424~exp=1711782024~hmac=87a0ac6aa4df67ad832d309c7ca07d607054c6c523c36c0d58b24f59981110b0"
+
+    },
+    {
+        "id" : 2,
+        "name" : "Comedy Book",
+        "title" : "Laugh Lines and Page Turns: A Comedic Collection",
+        "price" : 49,
+        "category" : "Entainment",
+        "image" : "https://img.freepik.com/free-psd/april-fool-s-day-template-design_23-2151295143.jpg?w=740&t=st=1711781700~exp=1711782300~hmac=c6652e6820c5cfd22247f9f2ac84c39b1657f6aac432a5f603f9b1fd55db70f8"
+
+    },
+    {
+        "id" : 3,
+        "name" : "Sports Book",
+        "title" : "Game On: Unleashing the Champion Within",
+        "price" : 90,
+        "category" : "Sports",
+        "image" : "https://img.freepik.com/free-vector/sport-home-poster-template_23-2148909722.jpg?w=740&t=st=1711781728~exp=1711782328~hmac=a63d600dd5339301b677c735f65dece8f664e62e4739aa3d892a8b605b0cf05a"
+
+    },
+    {
+        "id" : 4,
+        "name" : "Music Book",
+        "title" : "Harmony Unleashed: Exploring the Melodies of Life - Where every note sings a story, and every rhythm echoes a memory.",
+        "price" : 99,
+        "category" : "Song",
+        "image" : "https://img.freepik.com/free-psd/music-poster-template-concept_23-2148542768.jpg?w=740&t=st=1711781637~exp=1711782237~hmac=76297dbccfd80149d5fd6f215b77eb4a156cc75bc55d5bdc1ed66f84ca8cb380"
+
+    },
+    {
+        "id" : 5,
+        "name" : "Food Book",
+        "title" : "The Whispering Woods: Tales from the Enchanted Forest",
+        "price" : 39,
+        "category" : "Food",
+        "image" : "https://img.freepik.com/free-psd/poster-template-with-healthy-food_23-2148479923.jpg?w=740&t=st=1711781760~exp=1711782360~hmac=7d6e1be8e3061bb423e2e07bdd5ff34c8094a46224ecf436461c959714037d20"
+
+    },
+    {
+        "id" : 6,
+        "name" : "Story Book",
+        "title" : "The Whispering Woods: Tales from the Enchanted Forest",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-vector/opened-fantasy-book-with-cute-animals_1308-104423.jpg?w=826&t=st=1711781424~exp=1711782024~hmac=87a0ac6aa4df67ad832d309c7ca07d607054c6c523c36c0d58b24f59981110b0"
+
+    },
+    {
+        "id" : 7,
+        "name" : "Music Book",
+        "title" : "Harmonious Journeys: Exploring the Melodies of Life",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-psd/music-poster-template-concept_23-2148542768.jpg?w=740&t=st=1711781637~exp=1711782237~hmac=76297dbccfd80149d5fd6f215b77eb4a156cc75bc55d5bdc1ed66f84ca8cb380"
+
+    }
+]
