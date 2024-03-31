@@ -72,4 +72,8 @@ npm i -D daisyui@latest
     import "slick-carousel/slick/slick.css";
     import "slick-carousel/slick/slick-theme.css";
 ```
-
+### For Dark Mode
+1. Add this in tailwind.config
+```
+ darkMode: 'class',
+```
